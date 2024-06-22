@@ -30,10 +30,22 @@ This project enables you to generate images from text descriptions using the pow
    pip install transformers diffusers Pillow
    ```
 
-3. **(Optional) Install `authtoken.py`:**
+3. **(Optional) Hugging Face Authentication:**
+
+   - If you plan to use a private Stable Diffusion model from the Hugging Face Hub, you'll need to obtain an authentication token.
+   - Create a free Hugging Face account: [https://huggingface.co/join](https://huggingface.co/join)
+   - Go to your settings and navigate to the "Access Tokens" tab: [https://huggingface.co/](https://huggingface.co/)
+   - Create a new token with the "read" scope for accessing private models.
+   - Save the token securely. You'll use it in the next step.
+
+4. **(Optional) `authtoken.py`:**
 
    - Create a file named `authtoken.py` in your project directory.
-   - Define the `auth_token` variable within this file, containing your Hugging Face Hub authentication token if you're using a private model.
+   - Define the `auth_token` variable within this file, assigning your Hugging Face authentication token:
+
+     ```python
+     auth_token = "YOUR_HUGGING_FACE_AUTH_TOKEN"  # Replace with your actual token
+     ```
 
 # Code Structure
 
