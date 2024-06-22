@@ -8,7 +8,14 @@
   <a href="https://www.linkedin.com/in/niladrridas">
     <img alt="" src="https://img.shields.io/badge/LinkedIn-000000.svg?style=for-the-badge&logo=linkedin&labelColor=000">
   </a>
+  <a href="https://dev.to/niladridas">
+    <img alt="" src="https://img.shields.io/badge/dev.to-000000.svg?style=for-the-badge&logo=dev.to">
+  </a>
+  <a href="https://niladrridas.medium.com/">
+    <img alt="" src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=medium">
+  </a>
 </p>
+
 <p align="center">
   <!-- Python -->
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB">
