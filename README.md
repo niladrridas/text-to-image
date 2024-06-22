@@ -1,8 +1,50 @@
+<p align="center">
+  <a href="https://hashnode.com/@niladridas">
+    <img src="https://img.shields.io/badge/Hashnode-000000.svg?style=for-the-badge&logo=Hashnode&labelColor=000">
+  </a>
+  <a href="https://github.com/niladrridas/text-to-image/blob/main/LICENSE">
+    <img alt="" src="https://img.shields.io/badge/LICENSE%20%7C%20MIT-000.svg?style=for-the-badge">
+  </a>
+  <a href="https://www.linkedin.com/in/niladrridas">
+    <img alt="" src="https://img.shields.io/badge/LinkedIn-000000.svg?style=for-the-badge&logo=linkedin&labelColor=000">
+  </a>
+</p>
+<p align="center">
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB">
+  <!-- PyTorch -->
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white&labelColor=EE4C2C">
+  <!-- Hugging Face -->
+  <img src="https://img.shields.io/badge/Hugging%20Face-000000.svg?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000">
+  <!-- PIL -->
+  <img src="https://img.shields.io/badge/PIL-1CACEB.svg?style=for-the-badge&logo=python&logoColor=white&labelColor=1CACEB">
+  <!-- Autocast -->
+  <img src="https://img.shields.io/badge/Autocast-FFD700.svg?style=for-the-badge&logo=python&logoColor=white&labelColor=FFD700">
+  <!-- CUDA -->
+  <img src="https://img.shields.io/badge/CUDA-76B900.svg?style=for-the-badge&logo=NVIDIA&logoColor=white&labelColor=76B900">
+  <!-- Tkinter -->
+  <img src="https://img.shields.io/badge/Tkinter-2C2E3B.svg?style=for-the-badge&logo=tkinter&logoColor=white&labelColor=2C2E3B">
+</p>
+<p align="center">
+  <a href="https://pytorch.org/get-started/previous-versions/">
+    <img src="https://img.shields.io/badge/Get%20Started-Previous%20Versions-FF5722.svg?style=for-the-badge">
+  </a>
+</p>
+
 # Text-to-Image Application with Stable Diffusion
 
 # Introduction
 
 This project enables you to generate images from text descriptions using the powerful Stable Diffusion model. Leverage the capabilities of Stable Diffusion and create unique visuals based on your imagination!
+
+## Features
+
+This project offers a set of functionalities that empower you to generate images based on your textual descriptions. Here's a breakdown of its key features:
+
+* **Text-to-Image Generation:** The core functionality allows you to provide a text description, and the model will create a corresponding image. Unleash your imagination and bring your textual ideas to life visually!
+* **Leveraging Stable Diffusion:** This project utilizes the powerful Stable Diffusion model, known for its ability to generate high-quality and creative images from text prompts.
+* **User Interface (GUI):**  The project provides a user-friendly graphical interface (GUI) for easy interaction. Simply enter your text description and click a button to generate the image.
+* **[Optional] Customization Options:** While not currently implemented, the project has the potential to offer customization options for the generated images. This could include parameters like image size, style variations, or additional details for the model to consider.
 
 # Prerequisites
 
