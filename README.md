@@ -1,3 +1,4 @@
+![](https://github.com/niladrridas/text-to-image/blob/main/data/image/Designer%20(13).png)
 <p align="center">
   <a href="https://hashnode.com/@niladridas">
     <img src="https://img.shields.io/badge/Hashnode-000000.svg?style=for-the-badge&logo=Hashnode&labelColor=000">
