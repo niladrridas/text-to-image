@@ -166,5 +166,6 @@ try:
   # Replace 'pipeline_name' with the actual method name from documentation (e.g., 'text-diffusion')
   stable_diffusion_model = StableDiffusionPipeline.from_
 ```
-Work. Rest. Code.
-![Working](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+
+
+Further implementation please visit here to [GitLab](https://gitlab.com/niladridas/diffusion-model-mathematical-equation).
